@@ -6,7 +6,7 @@
 #########################################################################
 #!/usr/bin/env python
 
-from enthought.traits.api import Delegate, HasTraits, Instance, Int, Str
+from traits.api import Delegate, HasTraits, Instance, Int, Str
 
 class Parent(HasTraits):
     last_name = Str('Shen')
@@ -33,5 +33,3 @@ print(p.last_name)
 print(c.last_name)
 
 c.age = 4
-
-print(c.configure_traits())
