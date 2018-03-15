@@ -2,7 +2,6 @@
 #########################################################################
 # File Name: threadLock.py
 # Author: Shen Bo
-# mail: Bo.A.Shen@alcatel-sbell.com.cn
 # Created Time: Wed, Mar 14, 2018  2:47:25 PM
 #########################################################################
 #!usr/bin/env python
